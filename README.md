@@ -40,10 +40,4 @@ If you encounter any issues or have questions, please feel free to create a GitH
 
 Contributions are welcome! If you have any improvements or new features to add, please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Thank you for using Meera AI Chatbot! If you have any feedback or suggestions, we'd love to hear from you.
