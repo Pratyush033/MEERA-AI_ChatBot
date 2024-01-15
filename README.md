@@ -20,10 +20,6 @@ Before using Meera AI Chatbot, make sure you have the following:
 3. Activate the virtual environment.
 4. Install the required dependencies.
 
-### Configuration
-
-Edit the `config.py` file and replace `YOUR_OPENAI_API_KEY` with your actual OpenAI API key.
-
 ### Usage
 
 Run the Meera AI Chatbot application. The application will prompt you to enter messages, and Meera AI Chatbot will respond based on the conversation context.
@@ -31,10 +27,6 @@ Run the Meera AI Chatbot application. The application will prompt you to enter m
 ## Customization
 
 You can customize the behavior of Meera AI Chatbot by modifying the `meera_chatbot.py` file. Explore the different options provided by the ChatGPT API to enhance the user experience.
-
-## Support and Issues
-
-If you encounter any issues or have questions, please feel free to create a GitHub issue in the Meera AI Chatbot repository.
 
 ## Contribution
 
