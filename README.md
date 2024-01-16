@@ -24,10 +24,6 @@ Before using Meera AI Chatbot, make sure you have the following:
 
 Run the Meera AI Chatbot application. The application will prompt you to enter messages, and Meera AI Chatbot will respond based on the conversation context.
 
-## Customization
-
-You can customize the behavior of Meera AI Chatbot by modifying the `meera_chatbot.py` file. Explore the different options provided by the ChatGPT API to enhance the user experience.
-
 ## Contribution
 
 Contributions are welcome! If you have any improvements or new features to add, please fork the repository and submit a pull request.
