@@ -12,6 +12,8 @@ Context API in React: Manages and provides authentication state across React com
 HttpOnly Cookies: Enhances security by preventing client-side scripts from accessing sensitive data.
 API Key Management: Ensures security and confidentiality by handling API keys appropriately.
 
-**Clone the Project using :**  https://github.com/Pratyush033/MEERA-AI_ChatBot
+**Clone the Project using :** git clone https://github.com/Pratyush033/MEERA-AI_ChatBot
+
+Make sure you have Git installed on your machine before running this command. If Git is not installed, you can download it from https://git-scm.com/downloads.
 
 
