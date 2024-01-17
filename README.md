@@ -1,31 +1,17 @@
 # MEERA-AI_ChatBot
-# Meera AI Chatbot Readme
 
-## Overview
+Welcome to the AI Chatbot project! This application utilizes the OpenAI API for chatbot functionality, providing an intelligent conversational experience. The backend is implemented in Node.js and Express, creating a robust REST API. For the frontend, we've used Vite to ensure a fast, dynamic, and reliable user interface.
 
-Meera AI Chatbot is a conversational agent powered by the OpenAI GPT-3.5 architecture through the ChatGPT API. It is designed to engage in natural language conversations, providing users with a seamless and interactive experience.
+Features
+Chatbot Functionality: Leverages the OpenAI API for intelligent chatbot responses.
+Node.js and Express Backend: Powerful backend infrastructure for handling API requests.
+Vite Frontend: Utilizes Vite for a speedy and dynamic user interface.
+Material UI Styling: Provides a sleek and structured UI using Material UI components.
+JWT Authentication: Implements JSON Web Tokens for secure user authentication.
+Context API in React: Manages and provides authentication state across React components.
+HttpOnly Cookies: Enhances security by preventing client-side scripts from accessing sensitive data.
+API Key Management: Ensures security and confidentiality by handling API keys appropriately.
 
-## Getting Started
-
-### Prerequisites
-
-Before using Meera AI Chatbot, make sure you have the following:
-
-- OpenAI API Key: You need to sign up for the OpenAI GPT API and obtain your API key.
-
-### Installation
-
-1. Clone the Meera AI Chatbot repository.
-2. Create a virtual environment (optional but recommended).
-3. Activate the virtual environment.
-4. Install the required dependencies.
-
-### Usage
-
-Run the Meera AI Chatbot application. The application will prompt you to enter messages, and Meera AI Chatbot will respond based on the conversation context.
-
-## Contribution
-
-Contributions are welcome! If you have any improvements or new features to add, please fork the repository and submit a pull request.
+**Clone the Project using :** git clone : https://github.com/Pratyush033/MEERA-AI_ChatBot
 
 
