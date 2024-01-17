@@ -2,7 +2,7 @@
 
 Welcome to the AI Chatbot project! This application utilizes the OpenAI API for chatbot functionality, providing an intelligent conversational experience. The backend is implemented in Node.js and Express, creating a robust REST API. For the frontend, we've used Vite to ensure a fast, dynamic, and reliable user interface.
 
-**Features**
+**Features :**
 
 **Chatbot Functionality:** Leverages the OpenAI API for intelligent chatbot responses.
 
@@ -19,6 +19,8 @@ Welcome to the AI Chatbot project! This application utilizes the OpenAI API for 
 **HttpOnly Cookies**: Enhances security by preventing client-side scripts from accessing sensitive data.
 
 **API Key Management:** Ensures security and confidentiality by handling API keys appropriately.
+
+
 
 **Clone the Project using :** git clone https://github.com/Pratyush033/MEERA-AI_ChatBot
 
